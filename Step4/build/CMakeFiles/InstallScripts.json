@@ -1,0 +1,10 @@
+{
+	"InstallScripts" : 
+	[
+		"/mnt/c/Users/lenovo/OneDrive/Desktop/CMake\u7ec3\u4e60\u6587\u4ef6/cmake-4.5.1-tutorial-source/Step4/build/cmake_install.cmake",
+		"/mnt/c/Users/lenovo/OneDrive/Desktop/CMake\u7ec3\u4e60\u6587\u4ef6/cmake-4.5.1-tutorial-source/Step4/build/Tutorial/cmake_install.cmake",
+		"/mnt/c/Users/lenovo/OneDrive/Desktop/CMake\u7ec3\u4e60\u6587\u4ef6/cmake-4.5.1-tutorial-source/Step4/build/MathFunctions/cmake_install.cmake",
+		"/mnt/c/Users/lenovo/OneDrive/Desktop/CMake\u7ec3\u4e60\u6587\u4ef6/cmake-4.5.1-tutorial-source/Step4/build/Vendor/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
